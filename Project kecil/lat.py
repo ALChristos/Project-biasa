@@ -5,7 +5,8 @@ while True:
    print("======"*10)
    print("PROGRAM PENILAIAN SISWA")
    print("======"*10)
-   jumlah_siswa = int(input("Masukan Jumlah Siswa: "))
+   jumlah_siswa = int(input("Masukan Jumlah Siswa yang Ingin Dinilai: "))
+   
    for i in range(jumlah_siswa):
     print(f"jumlah siswa ke-{i+1}")
     nama_siswa = input("Masukan Nama Siswa: ")
@@ -16,7 +17,7 @@ while True:
         print(f"Siswa dengan nama {nama_siswa} mendapatkan nilai B")
     else:
         print(f"Siswa dengan nama {nama_siswa} mendapatkan nilai C")
-        input_penyelesaian= input("Apakah Mau Menilai Lagi? (Y/N)")
-        if input_penyelesaian.lower() in ("n","no","g","ga"):
+        input_penyelesaian= input("Apakah Mau Menilai Lagi? (Y/N) : ").lower()
+        if input_penyelesaian == 'n':
             print("=========TERIMA KASIH SUDAH MENGGUNAKAN PROGRAM INI==========")
             break
