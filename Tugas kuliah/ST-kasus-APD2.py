@@ -7,7 +7,7 @@ skill_mc = {
 skill_villain = {
     "Shadow strike": {"damage": 15, "mana": 10},
     "Darkness wave": {"damage": 30, "mana": 20},
-    "Shadow ruin": {"damage": 25, "mana": 15},}
+    "Shadow ruin": {"damage": 10, "mana": 5},}
 
 while profile_mc["HP"] > 0 and profile_villain["HP"] > 0:
     # MC menyerang
@@ -42,6 +42,11 @@ while profile_mc["HP"] > 0 and profile_villain["HP"] > 0:
         profile_villain["Mana"] -= 10
         profile_mc["HP"] -= 15
         print("Villain menggunakan Shadow strike! MC terkena 15 damage.")
+    elif profile_villain["Mana"] >= 5:
+        # Shadow ruin
+        profile_villain["Mana"] -= 5
+        profile_mc["HP"] -= 10
+        print("Villain menggunakan Shadow ruin! MC terkena 10 damage.")
     else:
         # Isi ulang mana
         profile_villain["Mana"] += 10
