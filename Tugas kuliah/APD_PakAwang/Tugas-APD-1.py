@@ -12,8 +12,9 @@ while True:
                     os.system("cls" if os.name == "nt" else "clear")
                     continue
                 elif ulang.lower() == "n":
+                    list_angka.clear()
                     break
-                else:
+                else: 
                     print("Pilih yang bener oi")
                     input("Tekan enter")
                     list_angka.clear()
