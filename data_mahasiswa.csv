@@ -1,0 +1,56 @@
+NIM,Nama,Prodi,IPK,Angkatan,JenisKelamin
+
+20101,Andi,Informatika,3.55,2020,Laki-laki
+21102,Siti,Informatika,3.44,2021,Perempuan
+21103,Budi,Informatika,3.10,2022,Laki-laki
+20104,Ani,Informatika,3.88,2020,Perempuan
+23105,Rian,Informatika,2.95,2023,Laki-laki
+24106,Maya,Informatika,3.77,2024,Perempuan
+25107,Tono,Informatika,3.32,2025,Laki-laki
+21108,Rika,Informatika,3.91,2021,Perempuan
+22109,Joko,Informatika,3.02,2022,Laki-laki
+23110,Lina,Informatika,3.66,2023,Perempuan
+
+20201,Doni,Teknik Elektro,3.22,2020,Laki-laki
+21202,Rosa,Teknik Elektro,3.44,2021,Perempuan
+22203,Asep,Teknik Elektro,3.10,2022,Laki-laki
+23204,Nisa,Teknik Elektro,3.88,2023,Perempuan
+24205,Fajar,Teknik Elektro,3.55,2024,Laki-laki
+25206,Wulan,Teknik Elektro,3.60,2025,Perempuan
+21207,Hendra,Teknik Elektro,2.80,2021,Laki-laki
+22208,Nabila,Teknik Elektro,3.77,2022,Perempuan
+23209,Iwan,Teknik Elektro,3.01,2023,Laki-laki
+24210,Salsa,Teknik Elektro,3.69,2024,Perempuan
+
+20301,Putra,Sistem Informasi,3.70,2020,Laki-laki
+21302,Putri,Sistem Informasi,3.66,2021,Perempuan
+22303,Adi,Sistem Informasi,3.15,2022,Laki-laki
+23304,Fina,Sistem Informasi,2.95,2023,Perempuan
+24305,Rendi,Sistem Informasi,3.55,2024,Laki-laki
+25306,Melia,Sistem Informasi,3.90,2025,Perempuan
+21307,Ardi,Sistem Informasi,3.22,2021,Laki-laki
+22308,Sarah,Sistem Informasi,3.77,2022,Perempuan
+23309,Tegar,Sistem Informasi,3.44,2023,Laki-laki
+24310,Yuni,Sistem Informasi,3.88,2024,Perempuan
+
+20401,Rama,Teknik Mesin,3.01,2020,Laki-laki
+21402,Novi,Teknik Mesin,3.55,2021,Perempuan
+22403,Dedi,Teknik Mesin,3.21,2022,Laki-laki
+23404,Sari,Teknik Mesin,3.66,2023,Perempuan
+24405,Agus,Teknik Mesin,3.77,2024,Laki-laki
+25406,Ika,Teknik Mesin,3.44,2025,Perempuan
+22407,Farid,Teknik Mesin,3.60,2022,Laki-laki
+23408,Mira,Teknik Mesin,3.12,2023,Perempuan
+24409,Jamal,Teknik Mesin,3.50,2024,Laki-laki
+21410,Tina,Teknik Mesin,3.82,2021,Perempuan
+
+20501,Ilham,Teknik Sipil,3.33,2020,Laki-laki
+21502,Ayuni,Teknik Sipil,3.61,2021,Perempuan
+22503,Rio,Teknik Sipil,3.10,2022,Laki-laki
+23504,Laras,Teknik Sipil,3.75,2023,Perempuan
+24505,Galang,Teknik Sipil,3.55,2024,Laki-laki
+25506,Selvi,Teknik Sipil,3.90,2025,Perempuan
+21507,Surya,Teknik Sipil,3.22,2021,Laki-laki
+22508,Raina,Teknik Sipil,3.68,2022,Perempuan
+23509,Kiki,Teknik Sipil,3.44,2023,Laki-laki
+24510,Nanda,Teknik Sipil,3.82,2024,Perempuan
