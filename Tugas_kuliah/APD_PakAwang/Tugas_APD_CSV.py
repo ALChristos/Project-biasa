@@ -1,7 +1,7 @@
 import pandas as pd
 from prettytable import PrettyTable
 
-df = pd.read_csv("data_mahasiswa.csv")
+df = pd.read_csv("Data_Set/data_mahasiswa.csv")
 
 print("\n" + "="*70)
 print("         DATA MAHASISWA PER PRODI     ")
